@@ -7,6 +7,8 @@ HUAWEI Developer Expert. Co-founder at PocketDevs.
 
 [GitHub Bryl](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+https://github.com/alexandresanlim/Badges4-README.md-Profile#badges
+
 I also work on freelance projects including full stack software development, web scraping and data analytics, digital marketing, web and graphic design, video production, and code tutorials.
 
 I've helped small and medium-size businesses and organizations grow and streamline their processes, improve their online presence, and scale their operations through software solutions. I've also built a community of developers sharing knowledge, mentorship, sharing support, sharing tools, code reviews, answering questions, and much more. When I'm not writing code, I enjoy reading and learning about emerging technologies, minimalism, and startup culture. I share the things I've learned through short videos or on my blog.
