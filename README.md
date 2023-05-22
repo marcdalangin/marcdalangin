@@ -11,7 +11,7 @@ I also work on freelance projects for students for a budget-friendly price.
 ---
 *Check out my content*
 
-[![TikTok: marc{}_](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@marcdalangin_)](https://www.tiktok.com/@marcdalangin)
+[![TikTok: marc{}_](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@marcdalangin_)](https://www.tiktok.com/@marcdalangin_)
 [![Youtube: Marc Dalangin](https://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@marcdalangin_)](https://www.youtube.com/@marcdalangin_)
 
 ---
