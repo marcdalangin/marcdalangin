@@ -1,29 +1,26 @@
 ### Hi there 👋
 
 
-I'm Marc Darryl, an aspiring software engineer based in Manila, Philippines
+I'm **Marc Dalangin**, an aspiring software engineer based in **Manila, Philippines**. 
 
-HUAWEI Developer Expert. Co-founder at PocketDevs.
+I'm currently taking my Bachelor's Degree in Computer Science at the Pamantasan ng Lungsod ng Muntinlupa.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcdalangin"	/>
-https://github.com/alexandresanlim/Badges4-README.md-Profile#badges
+I also work on freelance projects for students for a budget-friendly price. 
 
-I also work on freelance projects including full stack software development, web scraping and data analytics, digital marketing, web and graphic design, video production, and code tutorials.
+[![GitHub Marc](https://img.shields.io/github/followers/marcdalangin?label=follow&style=social)](https://github.com/marcdalangin)
+---
+*Check out my content*
 
-I've helped small and medium-size businesses and organizations grow and streamline their processes, improve their online presence, and scale their operations through software solutions. I've also built a community of developers sharing knowledge, mentorship, sharing support, sharing tools, code reviews, answering questions, and much more. When I'm not writing code, I enjoy reading and learning about emerging technologies, minimalism, and startup culture. I share the things I've learned through short videos or on my blog.
+[![TikTok: marcdalangin_](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@marcdalangin_)](https://www.tiktok.com/@marcdalangin)
+[![Youtube: Marc Dalangin](https://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@marcdalangin_)](https://www.youtube.com/@marcdalangin_)
 
-Discord: Bryl's Server
-<!--
-**marcdalangin/marcdalangin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+*Connect with me*
 
-Here are some ideas to get you started:
+[![Linkedin: Marc Dalangin](https://img.shields.io/badge/-Marc_Dalangin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcdalangin/)](https://www.linkedin.com/in/marcdalangin/)
+[![Instagram: Bryl Kezter Lim](https://img.shields.io/badge/-marcdalangin-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/marcdalangin/)](https://www.instagram.com/marcdalangin/)
+![Twitter Follow](https://img.shields.io/twitter/follow/marcdalangin?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcdalangin&layout=compact&theme=github_dark)
