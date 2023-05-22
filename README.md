@@ -5,7 +5,7 @@ I'm Marc Darryl, an aspiring software engineer based in Manila, Philippines
 
 HUAWEI Developer Expert. Co-founder at PocketDevs.
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={marcdalangin})
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={marcdalangin}&theme={github_dark})
 
 https://github.com/alexandresanlim/Badges4-README.md-Profile#badges
 
