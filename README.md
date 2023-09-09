@@ -2,7 +2,13 @@
 
 </div>
 <div align="center">
-<span>👋 Hi and Welcome to my GitHub Profile!</span>
+### Hi there 👋
+
+I'm **Marc Dalangin**, an aspiring software engineer based in **Manila, Philippines**. 
+
+I'm currently taking my Bachelor's Degree in Computer Science at the Pamantasan ng Lungsod ng Muntinlupa.
+
+I also work on freelance projects for students for a budget-friendly price. 
 <br>
 <br>
   
