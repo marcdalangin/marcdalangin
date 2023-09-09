@@ -37,3 +37,8 @@ I also work on freelance projects for students for a budget-friendly price.
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcdalangin&layout=compact&theme=github_dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcdalangin&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcdalangin&show_icons=true&theme=radical)
+<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcdalangin&theme=tokyo-night)](https://github.com/marcdalangin/github-readme-activity-graph)
+
